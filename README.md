@@ -58,3 +58,5 @@ La diferencia entre ellos es pequeña, lo que significa que el modelo generaliza
 
 _Otras conlcusiones_
 
+Tambíen se calculó el coeficiente de determinación R^2, el de train fue de  0.71 y el de test de 0.70. Esto nos indica que el modelo explica alrededor del 70% de la variabilidad del precio de las viviendas. La diferencia entre ambos valores es mínima, por lo que el modelo generaliza bien y no presenta sobreajuste. 
+
