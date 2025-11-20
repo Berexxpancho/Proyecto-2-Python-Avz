@@ -1,3 +1,14 @@
+**Primera parte**
+
+
+<img width="5605" height="3173" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/9f71c500-773c-4a88-a843-7a679a28d741" />
+
+
+
+**Segunda parte**
+
+
+ 
 **Conclusiones**
 
 _Desempeño del modelo:_
